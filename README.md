@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Prep'd](https://github.com/huntingforelise/Prep-d)
 
-- 🌱 I’m currently learning **Redux and React in more detail**
+- 🌱 I’m currently learning **Redux, advanced React and React Native**
 
 - 💬 Ask me about **React or career switches**
 

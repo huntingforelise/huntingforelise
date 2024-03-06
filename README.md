@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Orca https://github.com/orca-io/
 
-- I specialise in development of userfriendly, performant and schmuck mobile applications
+- 🤓 I specialise in development of userfriendly, performant and schmuck mobile applications
 
 - 🌱 I’m currently learning **Reanimated and Gesture Handler**
 

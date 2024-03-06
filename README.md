@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elise</h1>
 <h3 align="center">A passionate Australian & Belgian full-stack developer</h3>
 
-- 🔭 I’m currently working at Orca https://github.com/orca-io/
+- 🔭 I’m currently working at Orca: https://github.com/orca-io/
 
-- 🤓 I specialise in development of userfriendly, performant and schmuck mobile applications
+- 🤓 I specialise in development of user friendly, performant and slick mobile applications
 
 - 🌱 I’m currently learning **Reanimated and Gesture Handler**
 

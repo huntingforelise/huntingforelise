@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elise</h1>
 <h3 align="center">A passionate Australian & Belgian full-stack developer</h3>
 
-- 🔭 I’m currently working on [Prep'd](https://github.com/huntingforelise/Prep-d)
+- 🔭 I’m currently working at Orca https://github.com/orca-io/
 
-- 🌱 I’m currently learning **Redux, advanced React and React Native**
+- I specialise in development userfriendly, performant and schmuck mobile applications
 
-- 💬 Ask me about **React or career switches**
+- 🌱 I’m currently learning **Reanimated and Gesture Handler**
+
+- 💬 Ask me about **React Native, boating or career switches**
 
 - 📫 How to reach me **eliseverhoeye@hotmail.com**
 

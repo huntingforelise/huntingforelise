@@ -5,7 +5,7 @@
 
 - 🤓 I specialise in development of user friendly, performant and slick mobile applications
 
-- 🌱 I’m currently learning **Reanimated and Gesture Handler**
+- 🌱 I’m currently learning **Tailwind CSS and Cloudflare CDN**
 
 - 💬 Ask me about **React Native or career switches**
 

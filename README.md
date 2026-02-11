@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reanimated and Gesture Handler**
 
-- 💬 Ask me about **React Native, boating or career switches**
+- 💬 Ask me about **React Native or career switches**
 
 - 📫 How to reach me **eliseverhoeye@hotmail.com**
 

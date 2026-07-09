@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elise</h1>
 <h3 align="center">A passionate Australian & Belgian full-stack developer</h3>
 
-- 🔭 I’m currently working as a freelancer, building a website for Casa Film & Music
+- 🔭 I’m currently working as a freelancer, building a mobile app for SecretHomes
 
 - 🤓 I specialise in development of user friendly, performant and slick mobile applications
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS and Cloudflare CDN**
 
-- 💬 Ask me about **React Native or career switches**
+- 💬 Ask me about **Codex and Claude**
 
 - 📫 How to reach me **eliseverhoeye@hotmail.com**
 
